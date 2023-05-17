@@ -1,0 +1,13 @@
+[
+    {
+        "LoginCase":"PASS",
+        "username":"John Doe",
+        "password":"ThisIsNotAPassword"
+    },
+    
+    {
+        "LoginCase":"Fail",
+        "username":"Jane Doe",
+        "password":"Katalon"
+    }
+]

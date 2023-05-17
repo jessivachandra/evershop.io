@@ -1,0 +1,39 @@
+[
+    {
+        "LoginCase":"PASS",
+        "username":"John Doe",
+        "password":"ThisIsNotAPassword",
+        "facility": "Tokyo",
+        "readmission": "yes",
+        "healthcare": "Medicare",
+        "visitdate": "17/05/2023",
+        "comment": "first"
+    }
+    ,
+    {
+        "LoginCase":"PASS",
+        "username":"John Doe",
+        "password":"ThisIsNotAPassword",
+        "facility": "Hongkong",
+        "readmission": "no",
+        "healthcare": "Medicaid",
+        "visitdate": "19/05/2023",
+        "comment": "second"
+    },
+    {
+        "LoginCase":"PASS",
+        "username":"John Doe",
+        "password":"ThisIsNotAPassword",
+        "facility": "Seoul",
+        "readmission": "yes",
+        "healthcare": "None",
+        "visitdate": "21/05/2023",
+        "comment": "third"
+    },
+    {
+        "LoginCase":"Fail",
+        "username":"Jane Doe",
+        "password":"Katalon"
+    }
+]
+

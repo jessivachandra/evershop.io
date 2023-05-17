@@ -1,0 +1,26 @@
+[
+    {
+        "SignupCase": "PASS",
+        "fullname": "Je CS",
+        "email": "jessi191@gmail.com",
+        "password": "Jessi123*"
+    },
+    {
+        "SignupCase": "Fail",
+        "ConditionCase": "InvalidFormatEmail",
+        "fullname": "Je CS 1",
+        "email": "jecs@gmail",
+        "password": "Jecs123*"
+    },
+    {
+        "SignupCase": "Fail",
+        "fullname": "Je CS 2",
+        "ConditionCase": "ExistingEmail",
+        "email": "jessi5@gmail.com",
+        "password": "Jessi123*"
+    },
+    {
+        "SignupCase": "Fail",
+        "ConditionCase": "EmptyFields"
+    }
+]

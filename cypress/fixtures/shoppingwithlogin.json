@@ -1,0 +1,44 @@
+[
+    
+    {
+        "email": "jessi10@gmail.com",
+        "password": "Jessi123*",
+        "fitemname": "Continental 80 shoes",
+        "fquantity": "3",
+        "fsize": "L",
+        "fcolor": "Pink",
+        "sitemname": "Edge gameday shoes",
+        "squantity": "3",
+        "ssize": "L",
+        "scolor": "Blue",
+        "fullname": "Jeje CS",
+        "phone": "081902839382",
+        "address": "123 Main Street",
+        "city": "New York",
+        "country": "United States",
+        "province": "California",
+        "postcode": "10001",
+        "shipping": "method0"
+
+    },
+    {
+        "email": "jessi@gmail.com",
+        "password": "Jessi123*",
+        "fitemname": "Nizza trefoil shoes",
+        "fquantity": "10",
+        "fsize": "M",
+        "fcolor": "Black",
+        "sitemname": "Lite racer adapt 3.0 shoes",
+        "squantity": "1",
+        "ssize": "S",
+        "scolor": "Red",
+        "fullname": "Kevin CS",
+        "phone": "081909387782",
+        "address": "789 Main Street",
+        "city": "Xinxin",
+        "country": "India",
+        "province": "Delhi",
+        "postcode": "10001",
+        "shipping": "method1"
+    }
+]

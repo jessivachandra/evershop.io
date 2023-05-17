@@ -1,0 +1,42 @@
+[
+    
+    {
+        "fitemname": "Nmd_r1 shoes",
+        "fquantity": "3",
+        "fsize": "X",
+        "fcolor": "White",
+        "sitemname": "Edge gameday shoes",
+        "squantity": "3",
+        "ssize": "L",
+        "scolor": "Blue",
+        "email": "jessi5@gmail.com",
+        "fullname": "Chandra CS",
+        "phone": "081902839382",
+        "address": "98 Main Street",
+        "city": "Lailai",
+        "country": "China",
+        "province": "Fujian",
+        "postcode": "1098",
+        "shipping": "method1"
+
+    },
+    {
+        "fitemname": "Nizza trefoil shoes",
+        "fquantity": "10",
+        "fsize": "M",
+        "fcolor": "Black",
+        "sitemname": "Lite racer adapt 3.0 shoes",
+        "squantity": "1",
+        "ssize": "S",
+        "scolor": "Red",
+        "email": "jessi5@gmail.com",
+        "fullname": "Andy CS",
+        "phone": "089383000990",
+        "address": "23 Main Street",
+        "city": "Gege",
+        "country": "United States",
+        "province": "California",
+        "postcode": "11111",
+        "shipping": "method0"
+    }
+]
